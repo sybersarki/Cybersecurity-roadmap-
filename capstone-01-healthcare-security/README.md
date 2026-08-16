@@ -47,5 +47,5 @@ capstone-01-healthcare-security/
 
 ## Deliverables
 - **[healthcare-security-posture-assessment.pdf](./healthcare-security-posture-assessment.pdf)** — full assessment: assets, threats, vulnerabilities, risks, prioritization, controls, and executive summary.
-- **[evidence/asset-inventory.csv](./evidence/asset-inventory.csv)** — structured asset list with CIA impact notes.
-- **[evidence/risk-matrix-notes.txt](./evidence/risk-matrix-notes.txt)** — working notes on how likelihood and impact were scored for prioritization.
+- **[Evidence/asset-inventory.csv](./Evidence/asset-inventory.csv)** — structured asset list with CIA impact notes.
+- **[Evidence/risk-matrix-notes.txt](./Evidence/risk-matrix-notes.txt)** — working notes on how likelihood and impact were scored for prioritization.
