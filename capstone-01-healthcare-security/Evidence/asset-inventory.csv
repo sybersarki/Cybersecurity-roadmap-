@@ -1,0 +1,7 @@
+Asset Name,CIA Priority,Why Important,Impact If Compromised
+Patient Records (EHR),Confidentiality + Integrity,Contains sensitive medical history and personal data,"Privacy breach, severe legal fines, patient trust lost"
+Administrator & System Login Credentials,Confidentiality,Grants privileged access to EHR patient records and financial systems,"Full system compromise, ransomware deployment, breach spans every connected system"
+Staff Laptops & Endpoints,Confidentiality + Availability,Used daily to access EHR email and internal systems; regularly leave the building,"Malware entry point or direct data leak if lost stolen or infected"
+Corporate Wi-Fi Network,Confidentiality + Availability,Connects every clinical device staff system and admin tool to internal resources,"Traffic interception and foothold for lateral movement"
+Financial & Billing Systems,Confidentiality + Integrity,Handles patient payments insurance claims and payroll including banking and card data,"Financial fraud direct monetary loss regulatory penalties"
+Connected Medical Devices,Availability + Integrity,Support patient diagnostics and monitoring often on outdated firmware,"Patient safety risk if tampered with easy entry point due to weak device security"
